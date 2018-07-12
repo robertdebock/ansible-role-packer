@@ -1,0 +1,13 @@
+---
+# tasks file for packer
+- name: download and install software
+  unarchive:
+    src: "https://releases.hashicorp.com/packer/{{ packer_version }}/packer_{{ packer_version }}_linux_amd64.zip"
+    dest: /usr/bin
+    remote_src: yes
+    mode: 0755
+    owner: root
+    group: root
+  register: download_packer
+  until: download_packer is succeeded
+  retries: 3
