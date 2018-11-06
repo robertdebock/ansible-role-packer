@@ -3,8 +3,7 @@ packer
 
 [![Build Status](https://travis-ci.org/robertdebock/ansible-role-packer.svg?branch=master)](https://travis-ci.org/robertdebock/ansible-role-packer)
 
-Provides packer for your system.
-
+The purpose of this role is to install and configure packer on your system.
 
 Example Playbook
 ----------------
