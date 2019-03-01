@@ -32,8 +32,6 @@ platforms:
     image: fedora:rawhide
   - name: packer-opensuse-leap
     image: opensuse:leap
-  - name: packer-opensuse-tumbleweed
-    image: opensuse:tumbleweed
   - name: packer-ubuntu-latest
     image: ubuntu:latest
   - name: packer-ubuntu-rolling
