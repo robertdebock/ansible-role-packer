@@ -19,7 +19,6 @@ This example is taken from `molecule/default/playbook.yml`:
   roles:
     - robertdebock.bootstrap
     - robertdebock.packer
-
 ```
 
 Also see a [full explanation and example](https://robertdebock.nl/how-to-use-these-roles.html) on how to use these roles.
@@ -34,7 +33,6 @@ These variables are set in `defaults/main.yml`:
 
 # The version of Packer to install.
 packer_version: 1.3.1
-
 ```
 
 Requirements
