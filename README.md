@@ -6,8 +6,8 @@ packer
 
 Install and configure packer on your system.
 
-<img src="https://img.shields.io/ansible/role/d/27497"/>
-<img src="https://img.shields.io/ansible/quality/27497"/>
+<img src="https://img.shields.io/ansible/role/d/"/>
+<img src="https://img.shields.io/ansible/quality/"/>
 
 Example Playbook
 ----------------
