@@ -45,7 +45,7 @@ These variables are set in `defaults/main.yml`:
 # defaults file for packer
 
 # The version of Packer to install.
-packer_version: 1.3.1
+packer_version: 1.4.5
 ```
 
 Requirements
@@ -79,6 +79,8 @@ This role has been tested on these [container images](https://hub.docker.com/):
 
 |container|tag|allow_failures|
 |---------|---|--------------|
+|amazonlinux|1|no|
+|amazonlinux|latest|no|
 |alpine|latest|no|
 |alpine|edge|yes|
 |debian|unstable|yes|
@@ -92,11 +94,9 @@ This role has been tested on these [container images](https://hub.docker.com/):
 
 This role has been tested on these Ansible versions:
 
-- ansible~=2.8
-- ansible~=2.9
+- ansible>=2.8, <2.9
+- ansible>=2.9
 - git+https://github.com/ansible/ansible.git@devel
-
-The indicator '\~=' means [compatible with](https://www.python.org/dev/peps/pep-0440/#compatible-release). For example 'ansible\~=2.8' would pick the latest ansible-2.8, for example ansible-2.8.6.
 
 
 Included version(s)
