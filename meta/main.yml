@@ -39,6 +39,5 @@ galaxy_info:
     - packer
     - centos
     - rhel
-    - ubuntu
 
 dependencies: []
