@@ -38,6 +38,6 @@ galaxy_info:
   galaxy_tags:
     - packer
     - centos
-    - rhel
+    - redhat
 
 dependencies: []
