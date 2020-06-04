@@ -2,9 +2,9 @@
 
 Install and configure packer on your system.
 
-|Travis|GitHub|Quality|Downloads|
-|------|------|-------|---------|
-|[![travis](https://travis-ci.com/robertdebock/ansible-role-packer.svg?branch=master)](https://travis-ci.com/robertdebock/ansible-role-packer)|[![github](https://github.com/robertdebock/ansible-role-packer/workflows/Ansible%20Molecule/badge.svg)](https://github.com/robertdebock/ansible-role-packer/actions)|[![quality](https://img.shields.io/ansible/quality/27497)](https://galaxy.ansible.com/robertdebock/packer)|[![downloads](https://img.shields.io/ansible/role/d/27497)](https://galaxy.ansible.com/robertdebock/packer)|
+|Travis|GitHub|Quality|Downloads|Version|
+|------|------|-------|---------|-------|
+|[![travis](https://travis-ci.com/robertdebock/ansible-role-packer.svg?branch=master)](https://travis-ci.com/robertdebock/ansible-role-packer)|[![github](https://github.com/robertdebock/ansible-role-packer/workflows/Ansible%20Molecule/badge.svg)](https://github.com/robertdebock/ansible-role-packer/actions)|[![quality](https://img.shields.io/ansible/quality/27497)](https://galaxy.ansible.com/robertdebock/packer)|[![downloads](https://img.shields.io/ansible/role/d/27497)](https://galaxy.ansible.com/robertdebock/packer)|[![Version](https://img.shields.io/github/release/robertdebock/ansible-role-packer.svg)](https://github.com/robertdebock/ansible-role-packer/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
