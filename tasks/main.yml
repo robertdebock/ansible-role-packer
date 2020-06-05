@@ -5,7 +5,7 @@
     src: "https://releases.hashicorp.com/packer/{{ packer_version }}/packer_{{ packer_version }}_linux_amd64.zip"
     dest: /usr/bin
     remote_src: yes
-    mode: 0755
+    mode: "755"
     owner: root
     group: root
   register: download_packer
