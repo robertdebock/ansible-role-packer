@@ -1,5 +1,8 @@
 ---
 # tasks file for packer
+- name: include assert.yml
+  include_tasks: assert.yml
+
 - name: download and install software
   unarchive:
     src: "https://releases.hashicorp.com/packer/{{ packer_version }}/packer_{{ packer_version }}_linux_amd64.zip"
