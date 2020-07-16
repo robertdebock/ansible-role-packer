@@ -11,6 +11,3 @@
     mode: "755"
     owner: root
     group: root
-  register: download_packer
-  until: download_packer is succeeded
-  retries: 3
