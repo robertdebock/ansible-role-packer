@@ -3,5 +3,4 @@
   assert:
     that:
       - packer_version is defined
-      - packer_version | length > 0
     quiet: yes
