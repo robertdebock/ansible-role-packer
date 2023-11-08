@@ -2,9 +2,9 @@
 
 Install and configure packer on your system.
 
-|GitHub|GitLab|Quality|Downloads|Version|
-|------|------|-------|---------|-------|
-|[![github](https://github.com/robertdebock/ansible-role-packer/workflows/Ansible%20Molecule/badge.svg)](https://github.com/robertdebock/ansible-role-packer/actions)|[![gitlab](https://gitlab.com/robertdebock-iac/ansible-role-packer/badges/master/pipeline.svg)](https://gitlab.com/robertdebock-iac/ansible-role-packer)|[![quality](https://img.shields.io/ansible/quality/27497)](https://galaxy.ansible.com/robertdebock/packer)|[![downloads](https://img.shields.io/ansible/role/d/27497)](https://galaxy.ansible.com/robertdebock/packer)|[![Version](https://img.shields.io/github/release/robertdebock/ansible-role-packer.svg)](https://github.com/robertdebock/ansible-role-packer/releases/)|
+|GitHub|GitLab|Downloads|Version|
+|------|------|---------|-------|
+|[![github](https://github.com/robertdebock/ansible-role-packer/workflows/Ansible%20Molecule/badge.svg)](https://github.com/robertdebock/ansible-role-packer/actions)|[![gitlab](https://gitlab.com/robertdebock-iac/ansible-role-packer/badges/master/pipeline.svg)](https://gitlab.com/robertdebock-iac/ansible-role-packer)|[![downloads](https://img.shields.io/ansible/role/d/24562)](https://galaxy.ansible.com/robertdebock/packer)|[![Version](https://img.shields.io/github/release/robertdebock/ansible-role-packer.svg)](https://github.com/robertdebock/ansible-role-packer/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -89,7 +89,7 @@ The minimum version of Ansible required is 2.12, tests have been done to:
 - The current version.
 - The development version.
 
-If you find issues, please register them in [GitHub](https://github.com/robertdebock/ansible-role-packer/issues)
+If you find issues, please register them in [GitHub](https://github.com/robertdebock/ansible-role-packer/issues).
 
 ## [License](#license)
 
