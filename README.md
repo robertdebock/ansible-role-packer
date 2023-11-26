@@ -1,4 +1,4 @@
-# Ansible role [packer](#packer)
+# [Ansible role packer](#packer)
 
 Install and configure packer on your system.
 
